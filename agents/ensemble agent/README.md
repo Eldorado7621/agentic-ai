@@ -2,6 +2,8 @@
 
 The **Ensemble Agent** combines predictions from multiple specialized pricing models — including a frontier LLM, a specialist heuristic model, and a random forest model — and blends them using a trained **linear regression model**. This allows for more accurate, stable, and balanced price estimations from diverse inputs.
 
+
+
 ---
 
 ## 🚀 Features
